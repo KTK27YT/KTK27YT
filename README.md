@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @KTK27YT
-- 👀 I’m interested in exploring Computers and programming
-- 🌱 I’m currently learning GITHUB
-- 💞️ I’m looking to collaborate on anything
 
-<!---
-KTK27YT/KTK27YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://user-images.githubusercontent.com/33614825/188318755-be69f433-0de6-4003-9e12-278da9dded62.gif">
+
+# 👨‍💻 About Me
+
+- Primarily a Web Developer (PHP , JS)
+-	`Full-stack Novice Developer
+-	Member of EddieHub
+-	Learning: React Native
+
+
+# 🚀 What I am up to
+-	🔨 I am currently...
+
+`Taking an online CS50 Course on EDX`
+
+
+- 🎯 I plan to
+
+		- Polish up the DND Repo
+    
+		- Become Intermediate at React native
+    
+		- Start Learn Rust
+    
+    
+# 🔔 My Latest Github Metrics
+![Metrics](/github-metrics.svg)
+
