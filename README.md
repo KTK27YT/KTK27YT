@@ -21,7 +21,7 @@
     
 		- Become Intermediate at React native
     
-		- Start Learn Rust
+		- Start Learning Rust
     
     
 # 🔔 My Latest Github Metrics
