@@ -4,7 +4,7 @@
 # 👨‍💻 About Me
 
 - Primarily a Web Developer (PHP , JS)
--	`Full-stack Novice Developer
+-	Full-stack Novice Developer
 -	Member of EddieHub
 -	Learning: React Native
 
