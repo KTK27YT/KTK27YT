@@ -6,6 +6,7 @@
 - Primarily a Web Developer (PHP , JS)
 -	Full-stack Novice Developer
 -	Member of EddieHub
+-	Member of FinTech Association of Hong Kong (FTAHK)
 -	Learning: React Native
 
 
